@@ -6,5 +6,4 @@ public class TestBase {
 		System.out.println("test method");
 	}
 
-
 }
